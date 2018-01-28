@@ -8,7 +8,7 @@
 			<MaxHitPoints>135</MaxHitPoints>
 		</statBases>
 		<graphicData>
-			<texPath>Things/Plant/BananaTree</texPath>
+			<texPath>PeanutPlant</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shadowData>
 				<volume>(0.55, 0.2, 0.2)</volume>
@@ -29,8 +29,8 @@
 			<fertilityMin>0.5</fertilityMin>
 			<fertilitySensitivity>0.5</fertilitySensitivity>
 			<growDays>7</growDays>
-			<leaflessGraphicPath>Things/Plant/bananatree_leafless</leaflessGraphicPath>
-			<immatureGraphicPath>Things/Plant/bananatreeimmature</immatureGraphicPath>
+			<leaflessGraphicPath>PeanutPlant</leaflessGraphicPath>
+			<immatureGraphicPath>PeanutPlant</immatureGraphicPath>
 			<harvestYield>30</harvestYield>
 			<harvestWork>400</harvestWork>
 			<harvestTag>Standard</harvestTag>
@@ -43,8 +43,8 @@
 			</wildClusterSizeRange>
 			<wildClusterRadius>3.5</wildClusterRadius>
 			<visualSizeRange>
-				<min>1.7</min>
-				<max>2</max>
+				<min>0.9</min>
+				<max>1.0</max>
 			</visualSizeRange>
 			<topWindExposure>0.3</topWindExposure>
 		</plant>
