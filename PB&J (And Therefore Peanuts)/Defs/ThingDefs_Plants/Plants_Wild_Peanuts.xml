@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-<ThingDef ParentName="PlantBase">
+	<ThingDef ParentName="PlantBase">
 		<defName>PlantPeanut</defName>
 		<label>peanut plant</label>
 		<description></description>
@@ -28,7 +28,7 @@
 			</sowTags>
 			<fertilityMin>0.5</fertilityMin>
 			<fertilitySensitivity>0.5</fertilitySensitivity>
-			<growDays>7</growDays>
+			<growDays>4</growDays>
 			<leaflessGraphicPath>PeanutPlant</leaflessGraphicPath>
 			<immatureGraphicPath>PeanutPlant</immatureGraphicPath>
 			<harvestYield>30</harvestYield>
@@ -43,8 +43,8 @@
 			</wildClusterSizeRange>
 			<wildClusterRadius>3.5</wildClusterRadius>
 			<visualSizeRange>
-				<min>0.9</min>
-				<max>1.0</max>
+				<min>1.0</min>
+				<max>1.1</max>
 			</visualSizeRange>
 			<topWindExposure>0.3</topWindExposure>
 		</plant>
