@@ -19,7 +19,7 @@
 			</li>
 		</comps>
 		<ingestible>
-			<preferability>RawTasty</preferability>
+			<preferability>DesperateOnly</preferability>
 			<tasteThought/>
 			<foodType>VegetableOrFruit</foodType>
 		</ingestible>

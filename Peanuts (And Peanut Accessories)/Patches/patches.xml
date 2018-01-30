@@ -17,6 +17,20 @@
 	<Operation Class="PatchOperationAdd">
 		<xpath>/Defs/ThingDef[defName="FueledStove"]/recipes</xpath>
 		<value>
+			<li>BulkShellPeanuts</li>
+		</value>
+	</Operation> 
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="ElectricStove"]/recipes</xpath>
+		<value>
+			<li>BulkShellPeanuts</li>
+		</value>
+	</Operation> 
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="FueledStove"]/recipes</xpath>
+		<value>
 			<li>RoastPeanuts</li>
 		</value>
 	</Operation> 
@@ -41,8 +55,8 @@
 			<li>MakePeanutOil</li>
 		</value>
 	</Operation> 
-	
-		<Operation Class="PatchOperationAdd">
+
+	<Operation Class="PatchOperationAdd">
 		<xpath>/Defs/ThingDef[defName="FueledStove"]/recipes</xpath>
 		<value>
 			<li>MakePeanutButter</li>
