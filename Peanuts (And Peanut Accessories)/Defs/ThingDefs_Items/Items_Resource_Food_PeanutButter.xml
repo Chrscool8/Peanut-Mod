@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="PlantFoodRawBase">
+		<defName>PeanutButter</defName>
+		<label>peanut butter</label>
+		<description>A delicious paste made from peanuts and oil, with a pinch of salt for taste.</description>
+		<graphicData>
+			<texPath>PeanutButter</texPath>
+		</graphicData>
+		<statBases>
+			<MarketValue>8</MarketValue>
+			<Mass>0.35</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>6.5</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+		<ingestible>
+			<preferability>RawTasty</preferability>
+			<tasteThought/>
+			<foodType>VegetableOrFruit</foodType>
+		</ingestible>
+	</ThingDef>
+
+</Defs>
