@@ -43,10 +43,11 @@
 			</wildClusterSizeRange>
 			<wildClusterRadius>3.5</wildClusterRadius>
 			<visualSizeRange>
-				<min>1.0</min>
+				<min>0.5</min>
 				<max>1.1</max>
 			</visualSizeRange>
 			<topWindExposure>0.3</topWindExposure>
+			<immatureGraphicPath>PeanutPlantImmature</immatureGraphicPath>
 		</plant>
 	</ThingDef>
 </Defs>
