@@ -20,7 +20,7 @@
 		</comps>
 		<ingestible>
 			<preferability>DesperateOnly</preferability>
-			<tasteThought>AteRawFood</tasteThought>
+			<tasteThought>AtePeanutOil</tasteThought>
 			<foodType>VegetableOrFruit</foodType>
 		</ingestible>
 	</ThingDef>
