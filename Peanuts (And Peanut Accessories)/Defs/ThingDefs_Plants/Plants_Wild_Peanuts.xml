@@ -6,6 +6,7 @@
 		<description>A plant bearing peanuts.</description>
 		<statBases>
 			<MaxHitPoints>135</MaxHitPoints>
+            <Nutrition>0.2</Nutrition>
 		</statBases>
 		<graphicData>
 			<texPath>PeanutPlant</texPath>
