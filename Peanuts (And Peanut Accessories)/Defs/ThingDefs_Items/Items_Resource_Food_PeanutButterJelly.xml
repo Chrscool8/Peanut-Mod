@@ -13,6 +13,7 @@
 			<MarketValue>24</MarketValue>
 			<Mass>0.35</Mass>
 			<WorkToMake>45</WorkToMake>
+            <Nutrition>1.0</Nutrition>
 		</statBases>
 		<comps>
 			<li Class="CompProperties_Rottable">
@@ -23,7 +24,6 @@
 		<ingestible>
 			<preferability>MealFine</preferability>
 			<tasteThought>AtePeanutButterJelly</tasteThought>
-			<nutrition>1.0</nutrition>
 			<foodType>VegetableOrFruit</foodType>
 			<ingestSound>Meal_Eat</ingestSound>
 		</ingestible>

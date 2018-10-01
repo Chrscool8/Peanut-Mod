@@ -11,6 +11,7 @@
 		<statBases>
 			<MarketValue>8</MarketValue>
 			<Mass>0.035</Mass>
+            <Nutrition>0.10</Nutrition>
 		</statBases>
 		<comps>
 			<li Class="CompProperties_Rottable">
