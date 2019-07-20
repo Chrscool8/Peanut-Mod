@@ -17,7 +17,7 @@
 		</statBases>
 		<comps>
 			<li Class="CompProperties_Rottable">
-				<daysToRotStart>6.5</daysToRotStart>
+				<daysToRotStart>23.5</daysToRotStart>
 				<rotDestroys>true</rotDestroys>
 			</li>
 		</comps>
