@@ -3,8 +3,6 @@
 <ModMetaData>
 	<name>Peanuts (And Peanut Accessories)</name>
 	<author>Chris Bradel (Chrscool8)</author>
-	<targetVersion>1.0.2059</targetVersion>
-	<description>[v3.1] Peanuts, Peanut Oil, Peanut Butter, and more! Now with PB&#038;J sandwiches!
-    
-Works with B19 and 1.0</description>
+    <supportedVersions><li>1.0</li></supportedVersions>
+	<description>[v3.2] Peanuts, Peanut Oil, Peanut Butter, and more! Now with PB&#038;J sandwiches!</description>
 </ModMetaData>
