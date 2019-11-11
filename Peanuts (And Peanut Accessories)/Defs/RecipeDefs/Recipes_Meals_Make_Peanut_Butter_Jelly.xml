@@ -35,11 +35,21 @@
 				<li>RawBerries</li>
 				<li>PeanutButter</li>
 			</thingDefs>
+            <specialFiltersToDisallow>
+            <li>AllowRotten</li>
+         </specialFiltersToDisallow>
 		</fixedIngredientFilter>
+        <defaultIngredientFilter>
+            <thingDefs>
+				<li>RawBerries</li>
+				<li>PeanutButter</li>
+			</thingDefs>
+        </defaultIngredientFilter>
 		<products>
 			<PeanutButterJelly>4</PeanutButterJelly>
 		</products>
 		<workSkill>Cooking</workSkill>
+        <workAmount>1000</workAmount>
 	</RecipeDef>
 
 </Defs>
